@@ -35,7 +35,7 @@ practices.
 |               | **Charles Liu**                                      | **Eric Wu**                                     | **Kevin Wu**                                        |
 | :---:         | :---:                                                | :---:                                           | :---:                                               |
 | *Email*       | <cliu02@g.harvard.edu>                               | <eric_wu@g.harvard.edu>                         | <kevin_wu@g.harvard.edu>                            |
-| *Office*      | Maxwell-Dworkin (1st floor tables)                   | Maxwell-Dworkin (1st floor tables)              | Maxwell-Dworkin (1st floor tables)                  |
+| *Office*      | IACS Common Space                                    | IACS Common Space                               | IACS Common Space                                   |
 | *Office Hours*| M: 10:00 AM - 11:00 AM <br> W:  10:00 AM - 11:00 AM  | T: 6:00 PM - 7:00 PM <br> Th: 1:00 PM - 2:00 PM | T: 7:00 PM - 8:00 PM <br> Th: 11:00 AM - 12:00 PM   |
 
 
