@@ -72,7 +72,7 @@ these exercises during lecture:
   the class to present their solution.
 
 **Students _must_ push their final solution to the exercises to their private repo 
-  by 5:00 PM on the day of the lecture**
+  by 7:00 PM on the day of the lecture**
 
 The teaching staff will grade selected exercises and check for completeness.  Since 
 the correct solution is presented in class, these are almost free points.  Please 
