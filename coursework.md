@@ -80,16 +80,16 @@ complete the exercises!
 
 ## Homework
 
-Homework will be made available on Monday and is due the following Sunday 
+Homework will be made available on Wednesday and is due the following Tuesday 
 at 11:59 PM.  Some assignments may be more involved than others.  In 
-such cases, the homework will be due the following Sunday (still at 11:59 PM).
+such cases, the homework will be due the following Tuesday (still at 11:59 PM).
 
 * Homework is worth 20% of your final grade.  
 * Your private GitHub repo should contain a `homeworks` directory with 
   subdirectories for each homework assignment.
 * Name the assignment that you want us to grade `HWn-final` where `n` is the 
   assignment number. **We will only grade appropriately-labeled assignments!**
-* New homework will be assigned on Monday and due on Sunday night at **11:59 PM**.
+* New homework will be assigned on Wednesday and due on Tuesday night at **11:59 PM**.
 * All assignments will involve programming.  
 * Not all problems will be graded, but you should still do each problem 
   since you don't know which problems will be graded ahead of time.
