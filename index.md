@@ -36,7 +36,7 @@ practices.
 | :---:         | :---:                                                | :---:                                           | :---:                                               |
 | *Email*       | <cliu02@g.harvard.edu>                               | <eric_wu@g.harvard.edu>                         | <kevin_wu@g.harvard.edu>                            |
 | *Office*      | IACS Common Space                                    | IACS Common Space                               | IACS Common Space                                   |
-| *Office Hours*| M: 10:00 AM - 11:00 AM <br> W:  10:00 AM - 11:00 AM  | T: 6:00 PM - 7:00 PM <br> Th: 1:00 PM - 2:00 PM | T: 7:00 PM - 8:00 PM <br> Th: 11:00 AM - 12:00 PM   |
+| *Office Hours*| M: 10:00 AM - 11:00 AM <br> W:  10:00 AM - 11:00 AM  | T: 8:00 PM - 9:00 PM <br> Th: 1:00 PM - 2:00 PM | T: 9:00 PM - 10:00 PM <br> Th: 11:00 AM - 12:00 PM   |
 
 
 ## Meeting Times
