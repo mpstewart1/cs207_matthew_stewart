@@ -58,37 +58,53 @@ possible, provide links to Travis-CI test runs and Coveralls coverage.
 
 ## Deliverables
 
-**Midterm**
+**Milestones**
 
-The midterm demos will take place in class on October 18th.  The presentation does not 
-need to be anything fancy.  You should just provide a tour through your code base and 
-show a few examples.  These examples can even be describing a few of the tests.
+There will be two project milestones.  The first will take place on 10/18 and the 
+second on 11/20.  Each milestone will be in the form of a code review session 
+during class.  Each group will sit down with members of the teaching staff and 
+have their code and documentation reviewed.  The teaching staff will provide 
+feedback on the code and make sure that each group is on track.  The code review 
+session for each group will take roughly 10 minutes.
 
 You should also turn in a document which describes the code, how to install it, how 
 to run the tests, and how a user can run it.  The end of the document should include 
 your proposed feature for the final project.  The document should be under version 
-control.  This means that you should not write it in Microsoft word!
+control.  This means that you should not write it in Microsoft word!  Markdown is a 
+ nice way to document your code.
 
 Finally, your library should be up to date with where we are in class.  We will be 
 adding features to the library weekly, so as long as you are attending class and 
 doing the assignments you should have no problem having the latest features in 
 your library.  I will describe the exact details of what we expect to see in your 
-library one week before your in-class demos.  This will give you a way to benchmark 
-your progress and make sure you're progressing satisfactorily before the midterm.
+library one week before the code review sessions.  This will give you a way to benchmark 
+your progress and make sure you're progressing satisfactorily before the code review 
+session.
+
+### Milestone 1
+
+The first project milestone will take place in class on October 18th.  You should 
+provide a tour through your code base and show a few examples.  The teaching staff 
+will try an example of their own.  The rubric for the first milestone is on the 
+course webpage under the `project` directory.
+
+### Milestone 2
+
+The second project milestone will take place in class on November 20th.  The main 
+difference between the first and second milestone is that the second milestone 
+will contain additional code features and that each group must propose a nontrivial 
+feature to add to their code.  The teaching staff will assess the feasibility of 
+the code feature and may offer suggestions on how to proceed.  Once again, a 
+rubric for the second milestone will be made available on the course webpage 
+under the `project` directory.
 
 **Final**
 
-The deliverables for the final are essentially the same as those for the midterm.  
+The deliverables for the final are essentially the same as those for the milestones.  
 Of course, the main difference is that the final will include the final version 
-of your product inclusive of your proposed feature.  You will once again have to 
+of your product inclusive of your proposed feature.  You will have to 
 demo your library to the class and provide documentation.  The teach staff will 
 attempt to install your library and use it for our own purposes.
-
-## Milestones
-
-You will present the progress of your libary in a midterm presentation on Wednesday, 
-October 18th in class.  You should also propose the feature that you will be adding 
-for your final project during the midterm presentation.
 
 The final presentation will occur on Monday, December 11th.  This presentation will 
 be a demo of your entire library.  The final deliverable will be in the form of 
