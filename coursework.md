@@ -36,7 +36,7 @@ The group is free to make other repos within the organization for experiments, b
 
 ## Grading Scale 
 
-Homework, lecture exercises and the final project will be graded on a 10 point scale: 
+Homework and lecture exercises will be graded on a 10 point scale: 
 
 * 10 = Solid / no mistakes (or really minor ones)
 * 8 = Good / some mistakes
@@ -44,6 +44,9 @@ Homework, lecture exercises and the final project will be graded on a 10 point s
 * 4 = Poor / did not finish
 * 2 = Very Poor / little to no attempt.
 * 0 = Did not participate / did not hand in
+
+The point system for the final project will be made explicit in the project 
+rubrics (see the [project page](project.md) for details).
 
 ## Lecture Format
 
