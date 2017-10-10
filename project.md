@@ -100,10 +100,18 @@ and examples for new users.
 The final project is worth 50% of your course grade.  Here is a breakdown of the 
 components of the project:
 
-* Midterm:  20%
-  * Presentation:  5%
-  * Document:  25%
-  * Library:  70%
+* Milestone 1 (10/18):  10%
+  * Model Document:  12.5%
+  * Code Documentation:  12.5%
+  * Input Parsing:  12.5%
+  * Code Base:  50%
+  * Test Suite:  12.5%
+* Milestone 2 (11/20):  10%
+  * Model Document:  12.5%
+  * Code Documentation:  12.5%
+  * Code Base:  50%
+  * Test Suite:  12.5%
+  * Proposed Feature:  12.5%
 * Final deliverables:  30%
   * Presentation:  5%
   * Document:  25%
