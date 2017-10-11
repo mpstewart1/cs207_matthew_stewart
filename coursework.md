@@ -115,7 +115,7 @@ comments.
 **Late Policy**
 
 Two points will be deducted per day for late homework.  Homework will not be 
-accepted after Wednesday.  
+accepted after Friday.  
 
 Please contact me as soon as possible in the case of an unforeseen emergency or 
 illness so we can figure out an approprate plan of action on a case by case basis.
