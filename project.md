@@ -123,11 +123,9 @@ components of the project:
   * Code Base:  50%
   * Test Suite:  12.5%
 * Milestone 2 (11/20):  10%
-  * Model Document:  12.5%
-  * Code Documentation:  12.5%
-  * Code Base:  50%
-  * Test Suite:  12.5%
-  * Proposed Feature:  12.5%
+  * Packaging and Installation: 30% 
+  * Reversible Reactions:  40%
+  * Proposed Feature:  30%
 * Final deliverables:  30%
   * Presentation:  5%
   * Document:  25%
