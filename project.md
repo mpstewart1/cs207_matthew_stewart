@@ -127,7 +127,7 @@ components of the project:
   * Reversible Reactions:  40%
   * Proposed Feature:  30%
 * Final deliverables:  30%
-  * Presentation:  5%
-  * Document:  25%
-  * Library:  70%
+  * Presentation:  10%
+  * Document:  40%
+  * Library:  50%
 
